@@ -1,0 +1,27 @@
+.body{
+  background-color: RGB(211, 211, 211);
+}
+
+
+.logo{
+  padding-top: 02rem;
+  padding-bottom: 02rem;
+  padding-left: 03rem;
+}
+
+.redes-sociales {
+  padding-top: 11rem;
+  height: 157px;
+}
+
+.img-social {
+  width: 30px;
+  height: 30px;
+}
+
+.navbar{
+  text-align: center;
+  padding-top: 01rem;
+  padding-bottom: 01rem;
+  padding-left: 02rem;
+}
